@@ -30,7 +30,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://1drv.ms/v/c/e67a689788273250/IQDCEA6GC6klQKfjhkJi85FeAWL-RbWZwY52k-CwNFHHZ1Q?e=S2s21Y' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://1drv.ms/v/c/e67a689788273250/IQDCEA6GC6klQKfjhkJi85FeAWL-RbWZwY52k-CwNFHHZ1Q?e=S2s21Y
 
 
 ## Notes
